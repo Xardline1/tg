@@ -14,7 +14,7 @@
     <li>6. Go to your chat where you need to Accept all requests to join;</li>
     <li>7. Enjoy how the script does everything for you!</li>
 </ul>
-This script works only on the English version of Telegram! Be careful!<br><br><br>
+This script works only on the English version of Telegram! Pay attention!<br><br><br>
 =RU=<br>
 Простой скрипт Tampermonkey, который облегчит жизнь владельцам чатов Telegram, использующим ручное (запросное) принятие участников.<br><br>
 <ul>
@@ -28,4 +28,6 @@ This script works only on the English version of Telegram! Be careful!<br><br><b
     <li>6. Перейдите в свой чат, где вам нужно Принять все запросы на присоединение;</li>
     <li>7. Наслаждайтесь тем, как скрипт все делает за вас!</li>
 </ul>
-Данный скрипт работает только на английской версии Telegram! Будьте !
+Данный скрипт работает только на английской версии Telegram! Будьте внимательны!<br><br><br><br>
+Tags: #telegram #script #tampermonkey #automation #javascript #group-management #auto-accept #web-telegram #userscript #browser-extension #community-management #open-source #telegram-bot #manual-acceptance #chat-owners #telegram-scripts #web-automation #telegram-group #accept-requests #telegram-userscript #accept-many-requests #telegram-chat<br>
+Теги: #телеграм #скрипт #тампермонки #тамперманки #автоматизация #javascript #управление-группами #авто-принятие #веб-телеграм #пользовательский-скрипт #браузерное-расширение #управление-сообществом #открытый-код #телеграм-бот #ручное-принятие #владельцы-чатов #скрипты-телеграм #веб-автоматизация #группа-в-телеграм #принимать-запросы #пользовательский-скрипт-телеграм #принять-много-запросов #телеграм-чат
